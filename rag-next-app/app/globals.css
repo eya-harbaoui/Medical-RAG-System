@@ -8,6 +8,10 @@ body {
 
 @layer base {
   :root {
+    --perso-red: #b8001f;
+    --perso-blue: #384b70;
+    --perso-green: #16c47f;
+    --perso-blue-2: #507687;
     --background: 0 0% 100%;
     --foreground: 222.2 84% 4.9%;
     --card: 0 0% 100%;
